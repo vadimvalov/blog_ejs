@@ -8,7 +8,7 @@ This is a simple blog application built with EJS (Embedded JavaScript) templates
 
 1. Clone the repository
 2. Install dependencies with `npm install`
-3. Start the server with `npm start`
+3. Start the server with `node app.js`
 
 ## Features
 
