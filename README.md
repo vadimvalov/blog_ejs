@@ -1,5 +1,5 @@
 # blog_ejs
-
+LOGIN ADMIN: Vadim PASWWORD: Valov
 ## Description
 
 This is a simple blog application built with EJS (Embedded JavaScript) templates. 
